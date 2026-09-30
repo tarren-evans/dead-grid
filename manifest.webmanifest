@@ -1,0 +1,9 @@
+{
+  "name": "Dead Grid \u2014 Prototype 0.3.2",
+  "short_name": "Dead Grid",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#02040b",
+  "theme_color": "#030611",
+  "description": "Neon anime cyberpunk sci-fi zombie tower defense prototype."
+}
